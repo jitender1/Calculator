@@ -1,0 +1,47 @@
+.claculator {
+    background-color: rgba(47, 191, 39, 0.03);
+    width: 38em;
+    height: 40em;
+    border: solid 1px black;
+    margin-left: 26em;
+    margin-top: 1em;
+    border-radius: 8px;
+}
+
+.result{
+      background-color: rgba(234, 220, 232, 0.64);
+      width: 36em;
+      height: 7em;
+      position: absolute;
+      border: solid 2px rgba(41, 25, 25, 0.32);
+      margin-top: 12px;
+      margin-left: 15px;
+}
+.resultBox{
+    text-align: right;
+    font-size: xx-large;
+    width: 17em;
+    height: 2em;
+    position: absolute;
+    /* border: solid 2px rgba(41, 25, 25, 0.32); */
+    margin-top: 20px;
+    margin-left: 15px;
+
+}
+.keypad{
+      background-color: rgba(255, 227, 80, 0.06);
+      width: 36em;
+      height: 31em;
+      /* position: absolute; */
+      border: solid 2px rgba(0, 0, 0, 0.2);
+      margin-top: 126px;
+      margin-left: 15px;
+}
+
+.buttonStyle{
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: xx-large;
+  width: 4em;
+  height:3.5em;
+}
